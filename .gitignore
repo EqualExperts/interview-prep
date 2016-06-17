@@ -7,3 +7,11 @@ build
 *.ear
 hs_err_pid*
 /bin/
+/.settings
+.DS_Store
+**/*.DS_Store
+eclipse
+.idea
+/.idea_modules
+/.classpath
+/.project
