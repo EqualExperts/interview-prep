@@ -25,7 +25,7 @@ preferred alternatives instead.
 
   If you don't have something already installed and/or don't have a preference
   [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
-  https://www.virtualbox.org/wiki/Downloads is free and the associate extension
+  https://www.virtualbox.org/wiki/Downloads is free and the associated extension
   pack which may be downloaded from the same page.
 
   **Note** that extension packs are tied to the version of Virtualbox you have
