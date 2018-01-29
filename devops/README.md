@@ -1,5 +1,9 @@
 # devops-interview-prep
 
+Are you coming into EE for an interview? Here are a few pointers before you come in 
+to make the interview as smooth as possible. If you've got any questions, 
+just let us know - we'll be happy to help
+
 Devops prep for interviews [@equalexperts](https://www.equalexperts.com).
 
 Please bring a laptop that is stable and well configured.
@@ -9,8 +13,10 @@ that machine. You should also have development tools, at least one programming
 language you're comfortable with and a development environment (or editor) of
 your choice on this machine.
 
-It is stressful to have to debug your machine before we start working on the
-proposed exercise. A list of useful tools and software that you may find useful
+We often advise people to debug their machine before we start working on the 
+proposed exercise. It saves a bit of stress all round!
+ 
+A list of tools and software that you may find useful
 to work on the proposed exercise/s is provided below. You are welcome to install
 preferred alternatives instead.
 
