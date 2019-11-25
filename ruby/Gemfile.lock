@@ -3,7 +3,7 @@ GEM
   specs:
     coderay (1.1.1)
     diff-lcs (1.2.5)
-    ffi (1.9.14)
+    ffi (1.11.3)
     formatador (0.2.5)
     guard (2.14.0)
       formatador (>= 0.2.4)
