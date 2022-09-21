@@ -31,7 +31,7 @@ We strongly encourage people to debug their machine before the interview. It sav
 
 ### Please Avoid
 
-Hint on what may not help you:
+Hints on what may not help you:
 
 - working with a machine you have just reinstalled after wiping but have had no time to use before the session since you may not have the network configured or your preferred tools installed
 - choosing an esoteric tool/OS that you are interested in exploring but haven't worked with before. We won't judge you for going with the boring and familar. That's a feature not a bug!
@@ -54,7 +54,7 @@ Having the following tools installed and configured _may_ be useful for working 
 
   - Ubuntu 22.04.x LTS [ubuntu/jammy64 https://app.vagrantup.com/ubuntu/boxes/jammy64](https://app.vagrantup.com/ubuntu/boxes/jammy64) for deb based distributions
 
-  - Any other machine images for Linux a current linux distribution of your preference
+  - Any other machine images for a current linux distribution of your preference
 
   Disk is cheap, set up multiples in case there are any hiccups with one or the other.
 
