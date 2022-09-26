@@ -42,7 +42,7 @@ Having the following tools installed and configured _may_ be useful for working 
 
 - A hypervisor of your choice e.g. Virtualbox, KVM/Qemu/ VMWare Fusion, Parallels
 
-  If you don't have something already installed and/or don't have a preference [Virtualbox](https://www.virtualbox.org/wiki/Downloads) https://www.virtualbox.org/wiki/Downloads is free to use. You may also want to install the associated extension pack which may be downloaded from the same page and is free for personal use.
+  If you don't have something already installed and/or don't have a preference [Virtualbox https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads) is free to use. You may also want to install the associated extension pack which may be downloaded from the same page and is free for personal use.
 
   **Note** that extension packs are tied to the version of Virtualbox you have installed.
 
