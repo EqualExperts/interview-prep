@@ -65,7 +65,12 @@ Having the following tools installed and configured _may_ be useful for working 
 
   Please confirm that you can start-up and any downloaded virtual boxes and that you can also ssh to the box once it is running.
 
-- Install [docker https://www.docker.com](https://www.docker.com) and confirm it's working.
+- Install a container runtime and confirm it's working. Some commonly used variants:
+  - [docker desktop https://www.docker.com/products/docker-desktop/](https://www.docker.com/products/docker-desktop/)
+  - [rancher desktop https://rancherdesktop.io/](https://rancherdesktop.io/)
+  - [podman desktop https://podman-desktop.io/](https://podman-desktop.io/)
+
+  Ensure you can pull and run a container, and port bindings are working.
 
 - Install [minikube https://github.com/kubernetes/minikube](https://github.com/kubernetes/minikube) and confirm it's working.
 
